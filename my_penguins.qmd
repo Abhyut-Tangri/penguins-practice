@@ -1,0 +1,10 @@
+---
+title: "My Penguins"
+format: html
+---
+
+```{r}
+#| message: false
+library(tidyverse)
+library(palmerpenguins)
+```
